@@ -11,9 +11,9 @@ Senior software engineer in Atlanta, GA. I build the infrastructure people don't
 
 ## Recent highlights
 
+- 📚 Published 40+ in-depth engineering tutorials on [Algo Dojo](https://algodojo.xyz/tutorials) covering AI agent orchestration, durable workflows with Temporal, Genkit, Letta, and production DevOps — from concept to deployment
 - 🔧 Created a [MedusaJS Printify plugin](https://github.com/greedychipmunk/medusa-plugin-printify) that syncs Printify products with the e-commerce platform, automating catalog management for print-on-demand storefronts
 - 🤖 Open-sourced [agent-skills](https://github.com/greedychipmunk/agent-skills) — reusable skills for Claude Code, GitHub Copilot, and ChatGPT Codex
-- 🎯 Built [12Track.app](https://12track.app) — goal tracking PWA with real-time accountability features built with Next.js, Supabase, and Vercel
 
 ## Tech stack
 
