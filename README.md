@@ -1,6 +1,6 @@
 # Hey, I'm Dawson 👋
 
-Senior software engineer in Atlanta, GA. I build the infrastructure people don't notice — until it's not there.
+Forward Deployed Engineer in Atlanta, GA. I build the infrastructure people don't notice — until it's not there.
 
 ## What I work on
 
