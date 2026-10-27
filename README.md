@@ -1,6 +1,6 @@
 # Hey, I'm Dawson 👋
 
-Forward-Deployed Engineer in Atlanta, GA. I build, observe, guardrail, and improve AI agents that produce while you sleep.
+Forward Deployed Engineer in Atlanta, GA. I build, observe, guardrail, and improve AI agents that produce while you sleep.
 
 ## What I work with
 
